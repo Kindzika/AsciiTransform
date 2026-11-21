@@ -15,11 +15,19 @@
   Код писался на пару раз и может быть плохо оптимизированным)
 
 Пример: 
+
 <img width="736" height="1104" alt="Just white truck" src="https://github.com/user-attachments/assets/66916320-2382-472e-b34c-edf059a5aa19" />
+
 [Моя фотография, https://pin.it/4OfmRst7k]
+
 <img width="3680" height="5809" alt="out" src="https://github.com/user-attachments/assets/7aff8db9-23ac-4196-adb5-bab568aa990b" />
+
 С шрифтом DejaVuSansMono и параметром m = 4
+
 <img width="736" height="1104" alt="Venice" src="https://github.com/user-attachments/assets/acbd2a4d-3baf-4743-a751-882ea3a6b788" />
+
 [Тоже моя фотография, пожалуйста, не судите за свои же изображения >>]
+
 <img width="3680" height="5809" alt="out" src="https://github.com/user-attachments/assets/a6e2c91f-b4bb-4a36-a39e-8c2ac795ce7d" />
+
 С аналогичными параметрами
