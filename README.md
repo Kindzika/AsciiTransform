@@ -31,3 +31,10 @@
 <img width="3680" height="5809" alt="out" src="https://github.com/user-attachments/assets/a6e2c91f-b4bb-4a36-a39e-8c2ac795ce7d" />
 
 С аналогичными параметрами
+
+Или:
+
+
+С тем же шрифтом, m =2; bg = "24 23 25"
+
+<img width="7360" height="10212" alt="out" src="https://github.com/user-attachments/assets/cb0e2ab8-b56d-4042-a73a-60e29ac926ef" />
